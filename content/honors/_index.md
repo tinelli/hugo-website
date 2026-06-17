@@ -5,13 +5,15 @@ description: "Honorw and awards received by Prof. Cesare Tinelli."
 
 ## Honors
 
-### Program Conference Chairing
+--- 
+#### Program Conference Chairing
 
 [CADE-29](https://easyconferences.eu/cade2023/) &nbsp;
-[TACAS 2015](http://www.etaps.org/index.php/2015) &nbsp;
+[TACAS 2015](https://www.etaps.org/2015/tacas.html) &nbsp;
 [FroCoS 2011](http://www.mpi-inf.mpg.de/conferences/frocos2011/) &nbsp;
 
-### Invited and Keynote talks
+--- 
+#### Invited and Keynote talks
 
 [VMW 2025](https://conferences.i-cav.org/2025/mentoring/)  &nbsp;
 [SAT 2024](https://satisfiability.org/SAT24/speakers.php) &nbsp;
@@ -31,7 +33,8 @@ description: "Honorw and awards received by Prof. Cesare Tinelli."
 [TABLEAUX 2007](http://tableaux2007.univ-cezanne.fr/) &nbsp;
 [Interpolations (2007)](http://sophos.berkeley.edu/interpolations/)
 
-### Invited Lectures and Tutorials
+--- 
+#### Invited Lectures and Tutorials
 
 [SAT/SMT/AR Summer School 2025](https://sat-smt-ar-school.gitlab.io/www/2025/lectures.html) &nbsp;
 [Marktoberdorf Summer School 2024](https://sites.google.com/view/marktoberdorf2024/lectures) &nbsp;
@@ -43,7 +46,8 @@ description: "Honorw and awards received by Prof. Cesare Tinelli."
 [CAV 2005](http://www.cav2005.inf.ed.ac.uk/) &nbsp;
 [2004 Summer School on Combination of Decision Procedures](http://verify.stanford.edu/summerschool2004/) &nbsp;
 
-### Invited Contributions
+--- 
+#### Invited Contributions
 
 Handbook of Model Checking, 2nd ed., 2026 (in preparation) &nbsp;
 [Handbook of Satisfiability, 2nd ed., 2021](https://www.iospress.com/catalog/books/handbook-of-satisfiability-2) &nbsp;
@@ -51,7 +55,8 @@ Handbook of Model Checking, 2nd ed., 2026 (in preparation) &nbsp;
 [Handbook of Satisfiability, 2009](http://www.iospress.nl/loadtop/load.php?isbn=9781586039295) &nbsp;
 [IEEE Intelligent Systems Magazine 21(6), 2006](https://dl.acm.org/doi/10.1109/MIS.2006.117) &nbsp;
 
-## Awards
+--- 
+#### Awards
 
 * [ETAPS Rance-Cleaveland Test-of-Time Tool Award ](https://etaps.org/awards/test-of-time-tool/) (for cvc5), 2026
 

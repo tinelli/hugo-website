@@ -9,6 +9,7 @@ description: "Preprints and articles by Prof. Cesare Tinelli."
 -->
 
 ## Publications
+--- 
 
 Please see the following 
 [up-to-date list of publications](https://iro.uiowa.edu/esploro/profile/cesare_tinelli/output/publication?institution=01IOWA_INST).

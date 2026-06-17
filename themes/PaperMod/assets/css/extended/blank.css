@@ -3,3 +3,16 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+
+a {
+  /* color: #1c90f3; */
+  color: orange;
+  text-decoration-line: none;
+}
+
+a:hover {
+  /* color: #0056b3; */
+  color: rgb(57, 38, 2);
+  text-decoration: none;
+}

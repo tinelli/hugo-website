@@ -12,6 +12,9 @@ taxonomies:
 
 menu:
     main:
+        - name: "About me"
+          url: about/
+          weight: 1
         - name: Publications
           url: papers/
           weight: 1
@@ -72,6 +75,8 @@ params:
           imageWidth: 165
           imageHeight: 190
           buttons:
+            - name: "About me"
+              url: about/
             - name: Publications
               url: papers/
             - name: "Selected Talks"
@@ -110,7 +115,7 @@ params:
           url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=wbZc9nUAAAAJ&hl=en
-        - name: ORCID ID
+        - name: orcid
           url: https://orcid.org/0000-0002-6726-775X
         # - name: GitHub
         #   url: https://github.com/user

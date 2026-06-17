@@ -3,7 +3,10 @@ title: "Credits"
 description: "Collaborators and funders of Prof. Cesare Tinelli."
 ---
 
-## Collaborators
+## Credits
+
+--- 
+#### Collaborators
 
 I have had so far the good fortune to work with many outstanding researchers
 and students. Here is an incomplete list of my past and present co-authors
@@ -162,7 +165,8 @@ Han Yu,
 Calogero Zarba,
 [Yoni Zohar](https://cs.stanford.edu/~yoniz/).
 
-## Funders
+--- 
+#### Funders
 
 I am gratefult to the following agencies and companies
 which have funded my research and related activities over the years.
@@ -182,7 +186,8 @@ GE Global Research (2017--18, 2018--19)
 Rockwell Collins (2013--14, 2018--19)
 United Technologies Research Center (2013--14, 2018--19)
 
-## Visitors
+--- 
+#### Visitors
 
 I have also had the pleasure to host or co-host at Iowa many great researchers. Here is a (possibly incomplete) list.
 

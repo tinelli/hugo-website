@@ -19,7 +19,7 @@ description: "Professional service by Prof. Cesare Tinelli."
 - [FroCoS](http://frocos.cs.uiowa.edu/) (since August 2010, July 2004–November 2007)
 - [FTP](http://www.csc.liv.ac.uk/FTP-WS/) (November 2003–November 2012)
 - [IJCAR](http://www.ijcar.org/) (October 2004–October 2007)
-- [MVD](http://mvd.cs.uiowa.edu) (Since September 2009)
+- [MVD](http://clc.cs.uiowa.edu/mvd18/) (Since September 2009)
 - [SMT](http://www.smt-workshop.org) (August 2012–August 2014, September 2009–August 2011, September 2020–August 2024)
 
 ## Organization
